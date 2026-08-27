@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+payloads_gerados.txt
+.venv
+env/
+venv/
+.idea/
+.vscode/
